@@ -1,5 +1,5 @@
 # BOTNET
-# Windows Remote Access, Keylogger & Botnet Controller (Educational Project)
+# Botnet Controller (Educational Project)
 
 > ⚠️ **Disclaimer:** This project is intended **strictly for ethical hacking and cybersecurity education**. Use only in isolated lab environments or on systems you own or are authorized to test. Unauthorized use is illegal and unethical.
 
